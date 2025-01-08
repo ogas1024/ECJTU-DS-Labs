@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "new": "cpp",
+        "map": "cpp",
+        "random": "cpp",
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "initializer_list": "cpp",
+        "memory_resource": "cpp"
+    },
+    "Codegeex.RepoIndex": true
+}

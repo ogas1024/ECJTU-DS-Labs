@@ -1,0 +1,5 @@
+- `BinaryTree.h`: 二叉树基本操作的实现
+- `test_BinaryTree.cpp`: 二叉树的测试
+- `SeqBinaryTree.cpp`: 顺序存储的二叉树的前序遍历的实现与测试
+- `HuffmanTree.h`: 哈夫曼树与哈夫曼编码的实现
+- `test_HuffmanTree.cpp`: 哈夫曼树与哈夫曼编码的测试

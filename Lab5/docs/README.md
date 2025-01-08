@@ -1,0 +1,16 @@
+- `docs`:
+  - 实验报告
+  - 题目文档
+- `src`:
+  - `AdjacencyMatrixGraph.h`: 邻接矩阵实现图
+    - `class AMGraph`: 邻接矩阵实现图的类
+    - 有向图/无向图可选
+    - 实现DFS, BFS遍历
+    - 最小生成树:
+      - Prim算法实现
+      - Kruskal算法实现
+    - 最短路径:
+      - Dijstra算法实现
+      - Floyd算法实现
+  - `test.cpp`: 对邻接矩阵实现图的各种函数测试
+
